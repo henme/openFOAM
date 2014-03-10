@@ -9,4 +9,4 @@ Requires:
 openFOAM 2.2.2
 paraFOAM
 
-To run: ./Main.py in main folder
+To run: ./openFOAM.py in main folder
