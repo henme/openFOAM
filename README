@@ -1,1 +1,12 @@
-Test
+GUI for incompressible flow solvers in openFOAM
+
+By Henrik Kaald Melb\o
+
+email: henrikkaald@gmail.com
+
+Requires:
+
+openFOAM 2.2.2
+paraFOAM
+
+To run: ./Main.py in main folder
